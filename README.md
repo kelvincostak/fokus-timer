@@ -1,7 +1,7 @@
 # ♦ Focus
 
 ## Descrição
-Focus é um site projetado para proporcionar uma pausa relaxante para aqueles que passam longas horas trabalhando. Com uma variedade de músicas calmantes e temporizadores personalizáveis, Focus é o seu refúgio digital para recarregar suas energias e retornar ao trabalho com foco renovado.
+Focus é um site projetado para proporcionar uma pausa relaxante para aqueles que passam longas horas trabalhando. Com música calmante e temporizadores, Focus é o seu refúgio digital para recarregar suas energias e retornar ao trabalho com foco renovado.
 
 ## Recursos
 
