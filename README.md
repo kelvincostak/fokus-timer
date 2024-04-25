@@ -13,10 +13,12 @@ Focus é um site projetado para proporcionar uma pausa relaxante para aqueles qu
 
 ## Como Usar
 
-1. Acesse [Relaxify](https://www.relaxify.com).
+1. Acesse [[Fokus](https://fokus-timer.vercel.app)]
 2. Ajuste o temporizador para a duração desejada.
 3. Relaxe, respire fundo e deixe o estresse derreter.
 4. Quando o tempo acabar, retorne ao seu trabalho com uma mente clara e renovada.
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de pull request.
+
+![image](https://github.com/kelvincostak/fokus-timer/assets/101075405/2e8d6874-abdd-4183-bd38-30ffe3abef8b)
