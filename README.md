@@ -22,3 +22,8 @@ Focus é um site projetado para proporcionar uma pausa relaxante para aqueles qu
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de pull request.
 
 ![image](https://github.com/kelvincostak/fokus-timer/assets/101075405/2e8d6874-abdd-4183-bd38-30ffe3abef8b)
+
+![image](https://github.com/kelvincostak/fokus-timer/assets/101075405/67d69e58-8f46-4540-84ca-14aae70f41cc)
+
+![image](https://github.com/kelvincostak/fokus-timer/assets/101075405/9b0d88ef-8990-4e3f-820f-9701327ed7d3)
+
